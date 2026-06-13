@@ -1,0 +1,21 @@
+# Object files and build directory
+*.o
+*.obj
+obj/
+
+# Executable
+sobfvm
+
+# Submission archives
+*.tgz
+*.tar.gz
+
+# Editor / IDE files
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
